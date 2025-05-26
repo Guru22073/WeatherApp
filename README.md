@@ -62,12 +62,6 @@ To get a local copy up and running, follow these simple steps:
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Guru22073/WeatherApp/issues).
-
----
-
 ## 🙏 Acknowledgements (Optional)
 
 * Thanks to [OpenWeatherMap](https://openweathermap.org/api) (or other API provider) for providing the weather data.
