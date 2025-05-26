@@ -3,7 +3,6 @@
 A simple and clean weather application built with HTML, CSS, and JavaScript that allows users to get real-time weather information for any city.
 
 ![Screenshot Placeholder](image.png)
-*(Optional: Replace the placeholder link above with an actual screenshot of your app. You can upload the screenshot to your repository and link it.)*
 
 **Hosted online[Weatherapp](https://g-weather.infy.uk/)**
 
